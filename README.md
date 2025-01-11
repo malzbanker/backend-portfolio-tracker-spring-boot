@@ -1,8 +1,7 @@
-<<<<<<< HEAD
+
 # backend-portfolio-tracker-spring-boot
 backend portfolio tracker using java spring boot
-=======
->>>>>>> f10347c ( java spring boot backend)
+
 # Portfolio Tracker Application
 
 ## Description
@@ -23,18 +22,14 @@ A simple portfolio tracker application built using React and Spring Boot.
 1. Clone the repository.
 2. Set up the backend and database.
 3. Run the backend: `./mvnw spring-boot:run`
-4. Run the frontend: `npm start`
+4. Run the frontend: `npm run dev`
 
 ## Deployed Application
 - [Frontend Link](<frontend-deployed-link>)
-<<<<<<< HEAD
+
 - [Backend Link](<https://portfolio-deployment-5f16.onrender.com>)
 
-## API Documentation
-- [Swagger or Postman Link](<api-docs-link>)
-=======
-- [Backend Link](<backend-deployed-link>)
 
 ## API Documentation
 - [Swagger or Postman Link](<api-docs-link>)
->>>>>>> f10347c ( java spring boot backend)
+
