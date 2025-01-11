@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 # backend-portfolio-tracker-spring-boot
 backend portfolio tracker using java spring boot
+=======
+>>>>>>> f10347c ( java spring boot backend)
 # Portfolio Tracker Application
 
 ## Description
@@ -24,7 +27,14 @@ A simple portfolio tracker application built using React and Spring Boot.
 
 ## Deployed Application
 - [Frontend Link](<frontend-deployed-link>)
+<<<<<<< HEAD
 - [Backend Link](<https://portfolio-deployment-5f16.onrender.com>)
 
 ## API Documentation
 - [Swagger or Postman Link](<api-docs-link>)
+=======
+- [Backend Link](<backend-deployed-link>)
+
+## API Documentation
+- [Swagger or Postman Link](<api-docs-link>)
+>>>>>>> f10347c ( java spring boot backend)
