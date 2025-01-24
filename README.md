@@ -25,7 +25,7 @@ A simple portfolio tracker application built using React and Spring Boot.
 4. Run the frontend: `npm run dev`
 
 ## Deployed Application
-- [Frontend Link](<frontend-deployed-link>)
+- [Frontend Link](<[frontend-deployed-link](https://portfolio-tracker-malz.netlify.app/)>)
 
 - [Backend Link](<https://portfolio-deployment-5f16.onrender.com>)
 
